@@ -2,7 +2,7 @@
 
 import Figure from "@/app/components/Figure";
 
-const Jack = () => {
+const windowSystem = () => {
     return (
         <>
             <Figure x="30" y="30" col="#57BB87">
@@ -24,4 +24,4 @@ const Jack = () => {
     );
 };
 
-export default Jack;
+export default windowSystem;
