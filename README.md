@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# prototype-function-web
+情報は機能の一つであると捉えてwebを試作してみる
+
 
 ## Getting Started
 
@@ -34,6 +35,3 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 =======
-# prototype-function-web
-情報は機能の一つであると捉えてwebを試作してみる
->>>>>>> 90124822b013a135e830f83792e0f66e09c022dd
